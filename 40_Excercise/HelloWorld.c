@@ -31,3 +31,5 @@ int main()
 //printf() - Daten formatieren und ausgeben
 //printf() Format [Argument]
 //printf() Option
+
+// BlaBla für ÄNDERUNG
